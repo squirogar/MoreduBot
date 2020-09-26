@@ -1,2 +1,2 @@
 # MoreduBot
-Un bot sobre mi compa Eduardo
+Un bot de Discord en Java sobre mi compa Eduardo
