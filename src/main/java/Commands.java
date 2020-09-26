@@ -31,6 +31,7 @@ public class Commands extends ListenerAdapter {
                 eb.setTitle("Informacion de MoreduBot");
                 eb.setDescription("Bot creado especialmente para el Eduardo para que vea sus Koreanas preferidas");
                 eb.addField("Nota", "-help para ver los comandos", false);
+                eb.addField("Repositorio", "https://github.com/squirogar/MoreduBot.git", false);
                 eb.addField("PD", "Debería estar avanzando en la tesis en vez de crear estas cosas :pensive:", false);
                 eb.setColor(Color.yellow);
                 eb.setFooter("Creado por QuiroD10s");
